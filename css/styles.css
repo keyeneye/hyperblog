@@ -7,7 +7,6 @@ body{
 
 .container{
     width: 70%;
-    padding: 1em;
     text-align: left;;
     border: 1px solid #954545;
     margin: 0 auto;
@@ -15,3 +14,16 @@ body{
 .container h1{
     font-size: 30px;
 }
+
+.cabecera{
+    background-color: #33A;
+    color: white;
+    margin: 0;
+    padding: 0.6em;
+    font-weight: bold;
+}
+.cabecera span{
+    font-weight: lighter;
+    margin-left: 15px;
+}
+
