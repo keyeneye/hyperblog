@@ -1,5 +1,17 @@
 body{
-    color: deeppink;
-    text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #191919;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;;
+    border: 1px solid #954545;
+    margin: 0 auto;
+}
+.container h1{
+    font-size: 30px;
 }
