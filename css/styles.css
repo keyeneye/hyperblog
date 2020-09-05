@@ -10,6 +10,7 @@ body{
     text-align: left;;
     border: 1px solid #954545;
     margin: 0 auto;
+    display: block;
 }
 .container h1{
     font-size: 30px;
@@ -19,11 +20,29 @@ body{
     background-color: #33A;
     color: white;
     margin: 0;
-    padding: 0.6em;
+    padding: 0.5em 0 0.5em 2em;
     font-weight: bold;
+    display: flex;
+    align-items: center;
+    align-content: center;
 }
 .cabecera span{
     font-weight: lighter;
     margin-left: 15px;
+}
+
+.logo{
+    width: 30px;
+    height: 50px;
+    margin-inline-start: 10px;
+    margin-right: 60px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#text{
+
 }
 
